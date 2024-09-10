@@ -1,7 +1,7 @@
 ## Preview
 
-![demo1](https://github.com/Sambeetkumar/React-Workspace/blob/keeper-app/src/assets/projectimg1.png)
-![demo2](https://github.com/Sambeetkumar/React-Workspace/blob/keeper-app/src/assets/projectimg2.png)
+![demo1](https://github.com/kiran-immanni/React-Workspace-keeper-app/blob/master/src/assets/projectimg1.png)
+![demo2](https://github.com/kiran-immanni/React-Workspace-keeper-app/blob/master/src/assets/projectimg2.png)
 
 # Getting Started with Create React App
 
